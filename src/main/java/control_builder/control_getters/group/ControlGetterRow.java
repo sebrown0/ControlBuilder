@@ -4,9 +4,9 @@
 package control_builder.control_getters.group;
 
 import core_data.CoreData;
-import dynamic_tests.elements.ControlGroup;
 import library.common.controls.adders.RowAdder;
 import library.common.controls.interfaces.Control;
+import root.elements.ControlGroup;
 
 /**
  * @author SteveBrown
