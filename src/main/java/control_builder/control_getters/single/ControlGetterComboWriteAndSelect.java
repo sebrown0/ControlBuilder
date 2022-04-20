@@ -6,12 +6,10 @@ package control_builder.control_getters.single;
 import org.openqa.selenium.By;
 
 import control_builder.control_getters.ControlGetter;
-//import controls.combos.ComboWriteAndSelect;
-//import controls.interfaces.Control;
-import helpers.text_writer.TextWriter;
+import core_data.CoreData;
 import library.common.controls.combos.ComboWriteAndSelect;
 import library.common.controls.interfaces.Control;
-import library.dakar_hr.pages.homepage.CoreData;
+import utils.text_writer.TextWriter;
 
 /**
  * @author SteveBrown

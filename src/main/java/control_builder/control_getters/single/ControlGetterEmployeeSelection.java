@@ -6,9 +6,10 @@ package control_builder.control_getters.single;
 import org.openqa.selenium.By;
 
 import control_builder.control_getters.ControlGetter;
+import core_data.CoreData;
 import library.common.controls.interfaces.Control;
-import library.dakar_hr.modal_forms.emp_selection.EmployeeSelection;
-import library.dakar_hr.pages.homepage.CoreData;
+import library.object_models.modal_forms.emp_selection.EmployeeSelection;
+
 
 /**
  * @author SteveBrown

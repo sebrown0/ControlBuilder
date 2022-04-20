@@ -5,10 +5,10 @@ package control_builder.control_getters.group;
 
 import org.openqa.selenium.By;
 
+import core_data.CoreData;
 import dynamic_tests.elements.ControlGroup;
 import library.common.controls.adders.TabGroupAdder;
 import library.common.controls.interfaces.Control;
-import library.dakar_hr.pages.homepage.CoreData;
 
 /**
  * @author SteveBrown

@@ -6,10 +6,10 @@ package control_builder.control_getters.single;
 import org.openqa.selenium.By;
 
 import control_builder.control_getters.ControlGetter;
+import core_data.CoreData;
 import library.common.controls.interfaces.Control;
 import library.common.controls.interfaces.ControlTest;
 import library.common.controls.with_text.Label;
-import library.dakar_hr.pages.homepage.CoreData;
 
 /**
  * @author SteveBrown

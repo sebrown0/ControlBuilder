@@ -8,7 +8,7 @@ import java.util.List;
 import org.openqa.selenium.By;
 
 import control_builder.control_getters.ControlGetter;
-import library.dakar_hr.pages.homepage.CoreData;
+import core_data.CoreData;
 
 
 /**

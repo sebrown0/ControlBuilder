@@ -7,10 +7,10 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
 import control_builder.control_getters.ControlGetter;
+import core_data.CoreData;
 import library.common.controls.button.Button;
 import library.common.controls.interfaces.Control;
 import library.common.controls.interfaces.ControlTest;
-import library.dakar_hr.pages.homepage.CoreData;
 
 /**
  * @author SteveBrown

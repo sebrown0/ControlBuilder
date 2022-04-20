@@ -6,8 +6,8 @@ package control_builder.control_getters;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
+import core_data.CoreData;
 import library.common.controls.interfaces.Control;
-import library.dakar_hr.pages.homepage.CoreData;
 
 /**
  * @author SteveBrown
