@@ -43,19 +43,8 @@
       <artifactId>ContextManager</artifactId>
       <version>1.0.1</version>
     </dependency>
-    <!--
-    <dependency>
-      <groupId>com.dakar.automated_testing.libraries</groupId>
-      <artifactId>DakarHR-Library</artifactId>
-      <version>0.0.1-SNAPSHOT</version>
-    </dependency> 
-    <dependency>
-      <groupId>com.dakar.automated_testing</groupId>
-      <artifactId>ElementLibrary</artifactId>
-      <version>LATEST</version>
-    </dependency>
-     -->
     <!-- DAKAR - END -->
+    
     <dependency>
       <groupId>org.apache.logging.log4j</groupId>
       <artifactId>log4j-slf4j18-impl</artifactId>

@@ -18,7 +18,7 @@ import library.common.controls.interfaces.Control;
  */
 public class ControlGetterComboSelectOnly extends ControlGetter {
 	private Control cntrl;
-		
+
 	public ControlGetterComboSelectOnly(String name, CoreData coreData, By findBy, By resultsBy) {
 		super(name, coreData, findBy);
 		
